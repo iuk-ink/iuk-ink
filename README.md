@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Tinywan/Tinywan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iuk-ink/iuk-ink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.blade.php`
 - 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
@@ -21,7 +21,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iuk-ink&show_icons=true&theme=radical)
 -->
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&count_private=true&theme=radical"/>
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=iuk-ink&show_icons=true&count_private=true&theme=radical"/>
 
 #### 👋I'm a Backend DevOps Engineer working in China.
 
