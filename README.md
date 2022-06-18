@@ -8,7 +8,7 @@
 - 😄&nbsp;&nbsp; Learning all about **Open Source**
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tinywan&row=1&column=7&margin-w=32&theme=flat&no-bg=true&no-frame=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=iuk-ink&row=1&column=7&margin-w=32&theme=flat&no-bg=true&no-frame=true"/>
 </p>
 
 ### Skills 🌈
