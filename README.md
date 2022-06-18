@@ -7,10 +7,6 @@
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**
 - 😄&nbsp;&nbsp; Learning all about **Open Source**
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=iuk-ink&row=1&column=7&margin-w=32&theme=flat&no-bg=true&no-frame=true"/>
-</p>
-
 ### Skills 🌈
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg"></code>
