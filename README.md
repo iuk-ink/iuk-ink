@@ -2,9 +2,9 @@
 
 > 热爱技术的全栈开发者 | 创意编程爱好者 | 终身学习者
 
-![GitHub followers](https://img.shields.io/github/followers/iuk040100?label=Followers&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/iuk040100?style=social)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iuk040100.iuk-ink)
+![GitHub followers](https://img.shields.io/github/followers/iuk-ink?label=Followers&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/iuk-ink?style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iuk-ink.iuk-ink)
 
 ## 🚀 关于我
 
@@ -52,16 +52,14 @@
 
 ## 📈 GitHub 统计
 
-![iuk040100's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuk040100&show_icons=true&theme=radical)
+![iuk-ink's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuk-ink&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuk040100&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuk-ink&layout=compact&theme=radical)
 
 ## 🌟 精选项目
 
 ### 🚀 正在进行的项目
-- **[项目名称]** - 简要描述项目内容和目标
-- **[项目名称]** - 简要描述项目内容和目标
-- **[项目名称]** - 简要描述项目内容和目标
+- 暂无
 
 ### 💡 开源贡献
 - 积极参与开源社区，贡献代码和文档
@@ -87,10 +85,10 @@
 欢迎通过以下方式与我交流：
 
 - 📧 **邮箱**: iuk040100@gmail.com
-- 🐦 **Twitter**: [@iuk040100](https://twitter.com/iuk040100)
+- 🐦 **X**: [@iuk040100](https://x.com/iuk040100)
 - 💼 **LinkedIn**: [你的LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 **个人博客**: [你的博客](https://your-blog.com)
-- 💬 **Telegram**: @your-telegram
+- 🌐 **个人博客**: [Iuk's Blog](https://blog.iuk.ink)
+- 💬 **Telegram**: @iuk_ink
 
 ## 🤝 合作机会
 
