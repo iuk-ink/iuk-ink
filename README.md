@@ -73,17 +73,6 @@
 
 ---
 
-## 📈 GitHub 统计
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=iuk-ink&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuk-ink&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 联系我
 
 <div align="center">
