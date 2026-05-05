@@ -90,6 +90,4 @@
 
 ⭐ **感谢访问！如果你有兴趣合作，欢迎联系我！**
 
-<img src="https://komarev.com/ghpvc/?username=iuk-ink&color=blueviolet&style=flat-square&label=访问量" alt="访问计数器" />
-
 </div>
