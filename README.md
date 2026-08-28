@@ -10,16 +10,6 @@
 
 热爱通过代码将想法变为现实，目前正在探索技术与创意的交汇点。
 
-## 🛠️ 技术栈
-
-**语言:** JavaScript · TypeScript · Python · Php · Lua
-
-**前端:** React · Vue.js · Next.js · Tailwind CSS
-
-**后端:** Node.js · Express · Spring Boot · Django
-
-**工具:** AWS · Docker · Kubernetes · Git
-
 ## 🤝 联系我
 
 - 𝕏 [X](https://x.com/iuk040100)
