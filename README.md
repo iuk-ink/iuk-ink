@@ -10,14 +10,9 @@
 
 热爱通过代码将想法变为现实，目前正在探索技术与创意的交汇点。
 
-- 🔭 **正在开发** 全栈应用和云原生解决方案
-- 🌱 **正在学习** 机器学习和系统架构
-- 💬 **可以聊聊** Web 开发、职业发展或任何技术话题
-- 📫 **联系我** `87976436@qq.com`
-
 ## 🛠️ 技术栈
 
-**语言:** JavaScript · TypeScript · Python · Java · Go
+**语言:** JavaScript · TypeScript · Python · Php · Lua
 
 **前端:** React · Vue.js · Next.js · Tailwind CSS
 
